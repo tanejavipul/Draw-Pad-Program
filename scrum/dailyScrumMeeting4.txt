@@ -1,0 +1,72 @@
+# Fill in, commit and push each day.
+# Group Member: Sid
+
+Oct 23, 2017
+	Yesterday : No work completed
+	Today     : Meeting up with group members
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday : Met with the group members
+	Today     : Understanding the architecture of the program
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday : Understanding the architecture of the program
+	Today     : Nothing Done
+	Obstacles :
+
+Oct 26, 2017
+	Yesterday : Nothing Done
+	Today     : Started implementation of my part of the program
+	Obstacles : Knowing the key classes to implement
+
+Oct 27, 2017
+	Yesterday : Started implementation of my part of the program
+	Today     : Worked on circle feedback
+	Obstacles : Recognizing the errors in code implementation
+
+Oct 28, 2017
+	Yesterday : Worked on circle feedback
+	Today     : Day Off
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday : Day Off
+	Today     : Fixed some bugs for circle
+	Obstacles : Understanding the math behind fixing the bug
+
+Oct 30, 2017
+	Yesterday : Fixed some bugs for circle
+	Today     : Day Off
+	Obstacles :
+
+Oct 31, 2017
+	Yesterday : Day Off
+	Today     : Fixing bugs with shape chooser panel
+	Obstacles : Making it look better
+
+Nov 1, 2017
+	Yesterday : Fixing bugs with shape chooser panel
+	Today     : Nothing Done
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday : Nothing Done
+	Today     : Worked on model architecture
+	Obstacles : Some of the implementation is redundant and needs to be removed
+	
+Nov 3, 2017
+	Yesterday : Worked on model architecture
+	Today     : Worked on icons instead of text for the shape chooser implementation
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday : Worked on icons instead of text for the shape chooser implementation
+	Today     : Looking over minor issues in the program
+	Obstacles : Finding bugs in the code
+
+Nov 5, 2017
+	Yesterday :
+	Today     : 
+	Obstacles :

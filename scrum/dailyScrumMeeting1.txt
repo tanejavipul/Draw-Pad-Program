@@ -1,0 +1,123 @@
+# Fill in, commit and push each day.
+# Group Member: Vipul
+
+Oct 23, 2017
+	Yesterday :
+	Today     : Meet up with group and get contacts of everyone
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday : Meet up with group.
+	Today     : Team member on there own try to understand the given code.
+				Fill out backlogs
+	Obstacles : What the role is of each class is and why is it important
+
+Oct 25, 2017
+	Yesterday : Try to understand all the java classes
+	Today     : Try to make UML to understand what's going on.
+	Obstacles : putting all the classes to UML
+
+Oct 26, 2017
+	Yesterday : Made UML and it help to understand what's going on
+	Today     : Day Off (Study for 207)
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday : Day Off
+	Today     : Fix Git Issues
+	Obstacles : Git
+
+Oct 28, 2017
+	Yesterday : Git issue fixed
+	Today     : Make Rectangle
+	Obstacles : making rectangle
+
+Oct 29, 2017
+	Yesterday : Made Rectangle
+	Today     : Square
+	Obstacles : Squares
+
+Oct 30, 2017
+	Yesterday : Squares done
+	Today     : Rectangle feedback and if done they do square feedback. 
+			    If all that is done then do outline/fill selector.	
+	Obstacles : How to show the feedback only when mouse is being dragged. 
+
+Oct 31, 2017
+	Yesterday : Rectangle feedback done and Square Feedback done
+	Today     : Day Off (midtern)
+	Obstacles : 
+
+Nov 1, 2017
+	Yesterday :
+	Today     : Day Off to study but gave instruction on team member what should be
+			    completed.
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday : Told team member to complete work and it was completed on time
+	Today     : Fix all the shapes that had issues which were found two days ago
+				when talking to Arnold.
+	Obstacles : getting the rectangle to go in negative length and width.
+
+Nov 3, 2017
+	Yesterday : Fix most of the shape issues
+	Today     : Fix Squiggle, Colour selector and if time then start with icons with Sid
+				Ask mentor Git questions.
+	Obstacles : Will find out when I start but looks easy so far.
+
+Nov 4, 2017
+	Yesterday : Fix minor issues team members were having
+	Today     : Help team member and fix whats left in user story
+	Obstacles : breaking the system, founding out when the paint applications fails or has errors
+
+Nov 5, 2017
+	Yesterday : helped team members fix issues they had
+	Today     : See whats left and assist team member and try to find mistakes in application.
+				Commit and Pushing it before 11:59pm
+	Obstacles : breaking the system, founding out when the paint applications fails or has errors
+
+
+PART 2
+
+Nov 7, 2017
+	Yesterday : 
+	Today     : Tell Groups about assignment/finalize team AGAIN (just in case anyone has thoughts of moving)
+	Obstacles : N/A
+
+Nov 8, 2017
+	Yesterday : Talk to group that assignment 2 is out
+	Today     : Choose what role of each member
+	Obstacles : Role choosing
+	
+Nov 9, 2017
+	Yesterday : Role Choosing
+	Today     : Look of Command
+	Obstacles : 
+	
+Nov 10, 2017
+	Yesterday : Looked up command and learned it
+	Today     : Looked up visitor and choose a design pattern
+	Obstacles : Choosing pattern
+	
+Nov 11, 2017
+	Yesterday : Choosed visitor pattern as its more logical and better
+	Today     : Try to implement it so make interface and connect to all the drawing classes (circle, rectangle, ....)
+	Obstacles : implementing the visitor 
+
+Nov 12, 2017
+	Yesterday : implemented visitor but had trouble with bug 2.2 and needed some help, couldnt really come in contact anyone
+				with anyone.
+	Today     : Waited to response on questions about visitor but ended up using command and changed everything.
+	Obstacles : how to structure it and understand what arnold wrote in backlogs
+
+Nov 13, 2017
+	Yesterday : Make command had issues with some shapes
+	Today     : fixed the issues with shapes
+	Obstacles : navigating the files 
+	
+Nov 14, 2017
+	Yesterday : fixed some issues with shapes and command
+	Today     : Fixed any issues we were having and make some feature if time
+	HAND BEFORE 11:50
+	Obstacles : 

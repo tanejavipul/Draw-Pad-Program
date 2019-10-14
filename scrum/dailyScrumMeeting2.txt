@@ -1,0 +1,72 @@
+# Fill in, commit and push each day.
+# Group Member: Nathan
+
+Oct 23, 2017
+	Yesterday : Nothing done because of other commitments
+	Today     : Meeting up with group
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday : Meeting up with group
+	Today     : Setting up the parts to implement
+	Obstacles : 
+
+Oct 25, 2017
+	Yesterday : Setting up the parts to implement
+	Today     : Understanding different components to the program
+	Obstacles : Starting program implementation
+
+Oct 26, 2017
+	Yesterday : Starting program implementation
+	Today     : Nothing Done
+	Obstacles :
+
+Oct 27, 2017
+	Yesterday : Nothing Done
+	Today     : Looking over minor bugs with rectangle
+	Obstacles :
+
+Oct 28, 2017
+	Yesterday : Checking minor bugs with rectangle
+	Today     : Fixing issues with Git
+	Obstacles : Conflicts arise when merging work
+
+Oct 29, 2017
+	Yesterday : Fixing issues with Git
+	Today     : Worked on fill style selector
+	Obstacles : Finding simple way to implement it
+
+Oct 30, 2017
+	Yesterday : Worked on fill style selector
+	Today     :  Nothing Done
+	Obstacles : 
+
+Oct 31, 2017
+	Yesterday : Day Off
+	Today     : Worked on the issues with the line thickness selector
+	Obstacles : Implementing the interface for the selector 
+
+Nov 1, 2017
+	Yesterday : Worked on issues with line selector
+	Today     : Studying for other mid terms
+	Obstacles :
+	
+Nov 2, 2017
+	Yesterday : Studying for midterms
+	Today     : Fixing the shape chooser implementation
+	Obstacles : Finding efficient way to implement the chooser
+	
+Nov 3, 2017
+	Yesterday : Fixing the shape chooser implementation
+	Today     : Asked for assistance on issue that I was facing
+	Obstacles : 
+
+Nov 4, 2017
+	Yesterday : Asked for assistance
+	Today     : Implemented polyline but still has some minor issues
+	Obstacles : Minor Bug is hard to identify
+
+Nov 5, 2017
+	Yesterday : Implemented polyline
+	Today     : Testing and fixing minor bugs
+	Obstacles :

@@ -1,0 +1,72 @@
+# Fill in, commit and push each day.
+# Group Member: Ray
+
+Oct 23, 2017
+	Yesterday : Project not started
+	Today     : Meeting with team
+	Obstacles :
+
+Oct 24, 2017
+	Yesterday : Meeting with team
+	Today     : Getting started on project
+	Obstacles :
+
+Oct 25, 2017
+	Yesterday : Getting started on project
+	Today     : Implement classes needed for the assignment 
+	Obstacles : Setting up the actual classes required
+
+Oct 26, 2017
+	Yesterday : Implement classes needed for the assignment 
+	Today     : Worked on fill style selector
+	Obstacles : 
+
+Oct 27, 2017
+	Yesterday : Worked on fill style selector
+	Today     : Fixed bugs with rectangle
+	Obstacles : Rectangle implementation is not 100% correct
+
+Oct 28, 2017
+	Yesterday : Fixed bugs with rectangle
+	Today     : No work completed
+	Obstacles :
+
+Oct 29, 2017
+	Yesterday : No work completed
+	Today     : Studying for other courses
+	Obstacles :
+
+Oct 30, 2017
+	Yesterday : Studying for other courses
+	Today     : Fixed architecture of model
+	Obstacles : Implementing some of the code for the panels
+
+Oct 31, 2017
+	Yesterday : Fixed architecture of model
+	Today     : Fixed bugs on fill style selector
+	Obstacles : Finding an simple design for the fill selector
+
+Nov 1, 2017
+	Yesterday : Fixed bugs on fill style selector
+	Today     : Built color chooser selector
+	Obstacles : Building GUI for the color chooser
+	
+Nov 2, 2017
+	Yesterday : Built color chooser selector
+	Today     : Fixed errors with squiggle
+	Obstacles : Issues with code implementation
+	
+Nov 3, 2017
+	Yesterday : Fixed errors with squiggle
+	Today     : Made view for fill and line thickness
+	Obstacles :
+
+Nov 4, 2017
+	Yesterday : Made view for fill and line thickness
+	Today     : Implemented icons for shape chooser panel
+	Obstacles : Actually having icons relate to shapes on the action listener
+
+Nov 5, 2017
+	Yesterday : Implemented icons for shape chooser panel
+	Today     : Testing and looking over last minute bugs with program
+	Obstacles : Bugs show up unexpectedly
